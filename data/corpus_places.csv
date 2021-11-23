@@ -1,0 +1,1659 @@
+,name,entity,source
+0,Los Angeles,GPE,sources/omnibus.epub
+1,Chicago,GPE,sources/omnibus.epub
+2,England,GPE,sources/omnibus.epub
+3,Raymond,GPE,sources/omnibus.epub
+4,London,GPE,sources/omnibus.epub
+5,France,GPE,sources/omnibus.epub
+6,Germany,GPE,sources/omnibus.epub
+7,England,GPE,sources/omnibus.epub
+8,England,GPE,sources/omnibus.epub
+9,the United States,GPE,sources/omnibus.epub
+10,Los Angeles,GPE,sources/omnibus.epub
+11,England,GPE,sources/omnibus.epub
+12,La Jolla,GPE,sources/omnibus.epub
+13,California,GPE,sources/omnibus.epub
+14,San Diego,GPE,sources/omnibus.epub
+15,Sternwood,GPE,sources/omnibus.epub
+16,the United States,GPE,sources/omnibus.epub
+17,Sternwood,GPE,sources/omnibus.epub
+18,Scotch,GPE,sources/omnibus.epub
+19,Hollywood,GPE,sources/omnibus.epub
+20,Las Palmas,GPE,sources/omnibus.epub
+21,California,GPE,sources/omnibus.epub
+22,Sternwood,GPE,sources/omnibus.epub
+23,Lido,GPE,sources/omnibus.epub
+24,Regan,GPE,sources/omnibus.epub
+25,Regan,GPE,sources/omnibus.epub
+26,Lido,GPE,sources/omnibus.epub
+27,Sternwood,GPE,sources/omnibus.epub
+28,Sternwood,GPE,sources/omnibus.epub
+29,Yuma,GPE,sources/omnibus.epub
+30,Regan,GPE,sources/omnibus.epub
+31,Regan,GPE,sources/omnibus.epub
+32,Regan,GPE,sources/omnibus.epub
+33,Hollywood,GPE,sources/omnibus.epub
+34,California,GPE,sources/omnibus.epub
+35,Lido,GPE,sources/omnibus.epub
+36,West Hollywood,GPE,sources/omnibus.epub
+37,"Dubuque, Iowa",GPE,sources/omnibus.epub
+38,Sternwood,GPE,sources/omnibus.epub
+39,Sudden,GPE,sources/omnibus.epub
+40,Sternwood,GPE,sources/omnibus.epub
+41,Las Olindas,GPE,sources/omnibus.epub
+42,L.A.,GPE,sources/omnibus.epub
+43,Hollywood,GPE,sources/omnibus.epub
+44,Hollywood,GPE,sources/omnibus.epub
+45,Carmen,GPE,sources/omnibus.epub
+46,Carmen,GPE,sources/omnibus.epub
+47,Bali,GPE,sources/omnibus.epub
+48,Carmen,GPE,sources/omnibus.epub
+49,Western,GPE,sources/omnibus.epub
+50,Santa Monica,GPE,sources/omnibus.epub
+51,Lido,GPE,sources/omnibus.epub
+52,Carmen,GPE,sources/omnibus.epub
+53,San Quentin,GPE,sources/omnibus.epub
+54,Lafayette Park,GPE,sources/omnibus.epub
+55,Los Angeles,GPE,sources/omnibus.epub
+56,West Adams,GPE,sources/omnibus.epub
+57,Lido,GPE,sources/omnibus.epub
+58,Sternwood,GPE,sources/omnibus.epub
+59,Regan,GPE,sources/omnibus.epub
+60,Regan,GPE,sources/omnibus.epub
+61,Sternwood,GPE,sources/omnibus.epub
+62,West Hollywood,GPE,sources/omnibus.epub
+63,D.A.,GPE,sources/omnibus.epub
+64,Regan,GPE,sources/omnibus.epub
+65,Regan,GPE,sources/omnibus.epub
+66,Regan,GPE,sources/omnibus.epub
+67,Regan,GPE,sources/omnibus.epub
+68,Regan,GPE,sources/omnibus.epub
+69,Regan,GPE,sources/omnibus.epub
+70,Regan,GPE,sources/omnibus.epub
+71,Sternwood,GPE,sources/omnibus.epub
+72,Hollywood,GPE,sources/omnibus.epub
+73,Las Olindas,GPE,sources/omnibus.epub
+74,Florida,GPE,sources/omnibus.epub
+75,Regan,GPE,sources/omnibus.epub
+76,Regan,GPE,sources/omnibus.epub
+77,Regan,GPE,sources/omnibus.epub
+78,Regan,GPE,sources/omnibus.epub
+79,Sternwood,GPE,sources/omnibus.epub
+80,Hollywood,GPE,sources/omnibus.epub
+81,Burma,GPE,sources/omnibus.epub
+82,Havana,GPE,sources/omnibus.epub
+83,Monterey,GPE,sources/omnibus.epub
+84,Long Island,GPE,sources/omnibus.epub
+85,Las Olindas,GPE,sources/omnibus.epub
+86,Las Olindas,GPE,sources/omnibus.epub
+87,Del Rey,GPE,sources/omnibus.epub
+88,Kenmore,GPE,sources/omnibus.epub
+89,Sternwood,GPE,sources/omnibus.epub
+90,Scotch,GPE,sources/omnibus.epub
+91,Plymouth,GPE,sources/omnibus.epub
+92,Plymouth,GPE,sources/omnibus.epub
+93,Beverly Hills,GPE,sources/omnibus.epub
+94,Washington,GPE,sources/omnibus.epub
+95,Regan,GPE,sources/omnibus.epub
+96,Regan,GPE,sources/omnibus.epub
+97,Sternwood,GPE,sources/omnibus.epub
+98,Vardi’s,GPE,sources/omnibus.epub
+99,Regan,GPE,sources/omnibus.epub
+100,Regan,GPE,sources/omnibus.epub
+101,Santa Monica,GPE,sources/omnibus.epub
+102,Plymouth,GPE,sources/omnibus.epub
+103,Sternwood,GPE,sources/omnibus.epub
+104,Sternwood,GPE,sources/omnibus.epub
+105,Chicago,GPE,sources/omnibus.epub
+106,Bunker Hill,GPE,sources/omnibus.epub
+107,Plymouth,GPE,sources/omnibus.epub
+108,Pasadena,GPE,sources/omnibus.epub
+109,Pasadena,GPE,sources/omnibus.epub
+110,Regan,GPE,sources/omnibus.epub
+111,Hollywood,GPE,sources/omnibus.epub
+112,L.A.,GPE,sources/omnibus.epub
+113,Carson City,GPE,sources/omnibus.epub
+114,Canino’s,GPE,sources/omnibus.epub
+115,U.S.A.,GPE,sources/omnibus.epub
+116,Regan,GPE,sources/omnibus.epub
+117,Sternwood,GPE,sources/omnibus.epub
+118,Regan,GPE,sources/omnibus.epub
+119,Regan,GPE,sources/omnibus.epub
+120,the City Hall,GPE,sources/omnibus.epub
+121,Sternwood,GPE,sources/omnibus.epub
+122,Sternwood,GPE,sources/omnibus.epub
+123,Regan,GPE,sources/omnibus.epub
+124,Regan,GPE,sources/omnibus.epub
+125,La Brea,GPE,sources/omnibus.epub
+126,Sternwood,GPE,sources/omnibus.epub
+127,Regan,GPE,sources/omnibus.epub
+128,Sternwood,GPE,sources/omnibus.epub
+129,Negroes,GPE,sources/omnibus.epub
+130,Negroes,GPE,sources/omnibus.epub
+131,Pierrot,GPE,sources/omnibus.epub
+132,Pierrot,GPE,sources/omnibus.epub
+133,Ventura,GPE,sources/omnibus.epub
+134,Bay City,GPE,sources/omnibus.epub
+135,Marriott,GPE,sources/omnibus.epub
+136,Bay City,GPE,sources/omnibus.epub
+137,Las Pulgas,GPE,sources/omnibus.epub
+138,Iowa,GPE,sources/omnibus.epub
+139,Marriott,GPE,sources/omnibus.epub
+140,’s,GPE,sources/omnibus.epub
+141,West Los Angeles,GPE,sources/omnibus.epub
+142,Los Angeles,GPE,sources/omnibus.epub
+143,Los Angeles,GPE,sources/omnibus.epub
+144,Marriott,GPE,sources/omnibus.epub
+145,Marriott,GPE,sources/omnibus.epub
+146,Ventura,GPE,sources/omnibus.epub
+147,San Jack,GPE,sources/omnibus.epub
+148,St. Swithin’s Day,GPE,sources/omnibus.epub
+149,Cliff Riordan,GPE,sources/omnibus.epub
+150,Bay City,GPE,sources/omnibus.epub
+151,Bay City,GPE,sources/omnibus.epub
+152,Bay City,GPE,sources/omnibus.epub
+153,Marriott,GPE,sources/omnibus.epub
+154,Bay City,GPE,sources/omnibus.epub
+155,U.S.A.,GPE,sources/omnibus.epub
+156,Stillwood Heights,GPE,sources/omnibus.epub
+157,Stillwood Heights,GPE,sources/omnibus.epub
+158,Stillwood Heights,GPE,sources/omnibus.epub
+159,Sudden,GPE,sources/omnibus.epub
+160,Mason City,GPE,sources/omnibus.epub
+161,Texas,GPE,sources/omnibus.epub
+162,Mexico,GPE,sources/omnibus.epub
+163,Hollywood,GPE,sources/omnibus.epub
+164,Bay City,GPE,sources/omnibus.epub
+165,Grayle,GPE,sources/omnibus.epub
+166,California,GPE,sources/omnibus.epub
+167,Aesop,GPE,sources/omnibus.epub
+168,Scotch,GPE,sources/omnibus.epub
+169,Newton,GPE,sources/omnibus.epub
+170,Brentwood Heights,GPE,sources/omnibus.epub
+171,Santa Monica,GPE,sources/omnibus.epub
+172,Santa Monica,GPE,sources/omnibus.epub
+173,Beverly Hills,GPE,sources/omnibus.epub
+174,California,GPE,sources/omnibus.epub
+175,Chicago,GPE,sources/omnibus.epub
+176,Hollywood,GPE,sources/omnibus.epub
+177,Sunset,GPE,sources/omnibus.epub
+178,Stillwood Heights,GPE,sources/omnibus.epub
+179,Bay City,GPE,sources/omnibus.epub
+180,Los Angeles,GPE,sources/omnibus.epub
+181,L.A.,GPE,sources/omnibus.epub
+182,Bay City,GPE,sources/omnibus.epub
+183,Cedar City,GPE,sources/omnibus.epub
+184,Iowa,GPE,sources/omnibus.epub
+185,California,GPE,sources/omnibus.epub
+186,Malmsey,GPE,sources/omnibus.epub
+187,Malmsey,GPE,sources/omnibus.epub
+188,Bay City,GPE,sources/omnibus.epub
+189,Bay City,GPE,sources/omnibus.epub
+190,Seattle,GPE,sources/omnibus.epub
+191,Chicago,GPE,sources/omnibus.epub
+192,Santa Monica,GPE,sources/omnibus.epub
+193,Hollywood,GPE,sources/omnibus.epub
+194,Bay City,GPE,sources/omnibus.epub
+195,Bay City,GPE,sources/omnibus.epub
+196,Bay City,GPE,sources/omnibus.epub
+197,Bay City,GPE,sources/omnibus.epub
+198,Marriott,GPE,sources/omnibus.epub
+199,Marriott,GPE,sources/omnibus.epub
+200,Pierrot,GPE,sources/omnibus.epub
+201,Bay City,GPE,sources/omnibus.epub
+202,Mason City,GPE,sources/omnibus.epub
+203,Oregon,GPE,sources/omnibus.epub
+204,Marriott,GPE,sources/omnibus.epub
+205,Bay City,GPE,sources/omnibus.epub
+206,Palm Springs,GPE,sources/omnibus.epub
+207,Hollywood,GPE,sources/omnibus.epub
+208,Hollywood,GPE,sources/omnibus.epub
+209,Bay City,GPE,sources/omnibus.epub
+210,California,GPE,sources/omnibus.epub
+211,Stillwood Heights,GPE,sources/omnibus.epub
+212,Stillwood Heights,GPE,sources/omnibus.epub
+213,Stillwood Heights,GPE,sources/omnibus.epub
+214,L.A.,GPE,sources/omnibus.epub
+215,Richelieu,GPE,sources/omnibus.epub
+216,Stillwood Heights,GPE,sources/omnibus.epub
+217,Stillwood Heights,GPE,sources/omnibus.epub
+218,Stillwood Heights,GPE,sources/omnibus.epub
+219,Descanso,GPE,sources/omnibus.epub
+220,Stillwood Heights,GPE,sources/omnibus.epub
+221,L.A.,GPE,sources/omnibus.epub
+222,Bay City,GPE,sources/omnibus.epub
+223,Mexico,GPE,sources/omnibus.epub
+224,Panama,GPE,sources/omnibus.epub
+225,California,GPE,sources/omnibus.epub
+226,Bay City,GPE,sources/omnibus.epub
+227,Bay City,GPE,sources/omnibus.epub
+228,California,GPE,sources/omnibus.epub
+229,Bay City,GPE,sources/omnibus.epub
+230,Bay City,GPE,sources/omnibus.epub
+231,San Diego,GPE,sources/omnibus.epub
+232,Scotch,GPE,sources/omnibus.epub
+233,Bay City,GPE,sources/omnibus.epub
+234,Hollywood,GPE,sources/omnibus.epub
+235,Grayle,GPE,sources/omnibus.epub
+236,Bay City,GPE,sources/omnibus.epub
+237,Bay City,GPE,sources/omnibus.epub
+238,Grade,GPE,sources/omnibus.epub
+239,Hollywood,GPE,sources/omnibus.epub
+240,Marriott,GPE,sources/omnibus.epub
+241,D.A.,GPE,sources/omnibus.epub
+242,Rennenkamp,GPE,sources/omnibus.epub
+243,Grayle,GPE,sources/omnibus.epub
+244,New York,GPE,sources/omnibus.epub
+245,Paris,GPE,sources/omnibus.epub
+246,’s,GPE,sources/omnibus.epub
+247,Grayle,GPE,sources/omnibus.epub
+248,Baltimore,GPE,sources/omnibus.epub
+249,Rennenkamp,GPE,sources/omnibus.epub
+250,Grayle,GPE,sources/omnibus.epub
+251,Grayle,GPE,sources/omnibus.epub
+0,Washington,GPE,sources/playback.epub
+1,San Diego,GPE,sources/playback.epub
+2,California,GPE,sources/playback.epub
+3,Santa Ana,GPE,sources/playback.epub
+4,Oceanside,GPE,sources/playback.epub
+5,Del Mar,GPE,sources/playback.epub
+6,San Diego,GPE,sources/playback.epub
+7,San Diego,GPE,sources/playback.epub
+8,Ventura,GPE,sources/playback.epub
+9,East L.A.,GPE,sources/playback.epub
+10,Santa Ana,GPE,sources/playback.epub
+11,Del Mar,GPE,sources/playback.epub
+12,San Diego,GPE,sources/playback.epub
+13,Dago,GPE,sources/playback.epub
+14,Esmeralda,GPE,sources/playback.epub
+15,USA,GPE,sources/playback.epub
+16,Torrance Beach,GPE,sources/playback.epub
+17,Esmeralda,GPE,sources/playback.epub
+18,Lucille,GPE,sources/playback.epub
+19,West Chatham,GPE,sources/playback.epub
+20,New York,GPE,sources/playback.epub
+21,New York City,GPE,sources/playback.epub
+22,Lexington,GPE,sources/playback.epub
+23,Hollywood,GPE,sources/playback.epub
+24,Descansado,GPE,sources/playback.epub
+25,San Diego,GPE,sources/playback.epub
+26,Toronto,GPE,sources/playback.epub
+27,Washington,GPE,sources/playback.epub
+28,L.A.,GPE,sources/playback.epub
+29,Washington,GPE,sources/playback.epub
+30,D.C.,GPE,sources/playback.epub
+31,Los Angeles,GPE,sources/playback.epub
+32,Kansas City,GPE,sources/playback.epub
+33,Missouri,GPE,sources/playback.epub
+34,Grand,GPE,sources/playback.epub
+35,California,GPE,sources/playback.epub
+36,Esmeralda,GPE,sources/playback.epub
+37,Beverly Hills,GPE,sources/playback.epub
+38,Esmeralda,GPE,sources/playback.epub
+39,Bikini,GPE,sources/playback.epub
+40,Del Mar,GPE,sources/playback.epub
+41,L.A.,GPE,sources/playback.epub
+42,Del Mar,GPE,sources/playback.epub
+43,West Los Angeles,GPE,sources/playback.epub
+44,San Diego,GPE,sources/playback.epub
+45,Washington,GPE,sources/playback.epub
+46,Washington,GPE,sources/playback.epub
+47,Los Angeles,GPE,sources/playback.epub
+48,Esmeralda,GPE,sources/playback.epub
+49,Del Mar,GPE,sources/playback.epub
+50,Esmeralda,GPE,sources/playback.epub
+51,Los Angeles,GPE,sources/playback.epub
+52,Poniente,GPE,sources/playback.epub
+53,Esmeralda,GPE,sources/playback.epub
+54,California,GPE,sources/playback.epub
+55,Brandon,GPE,sources/playback.epub
+56,Esmeralda,GPE,sources/playback.epub
+57,Casa,GPE,sources/playback.epub
+58,Brandon,GPE,sources/playback.epub
+59,Casa,GPE,sources/playback.epub
+60,Del Mar,GPE,sources/playback.epub
+61,Brandon,GPE,sources/playback.epub
+62,San Diego,GPE,sources/playback.epub
+63,Casa,GPE,sources/playback.epub
+64,Rio,GPE,sources/playback.epub
+65,Rio,GPE,sources/playback.epub
+66,Washington,GPE,sources/playback.epub
+67,Casa,GPE,sources/playback.epub
+68,Baltimore,GPE,sources/playback.epub
+69,Washington,GPE,sources/playback.epub
+70,D.C.,GPE,sources/playback.epub
+71,San Diego,GPE,sources/playback.epub
+72,California,GPE,sources/playback.epub
+73,the Rancho Descansado,GPE,sources/playback.epub
+74,San Diego,GPE,sources/playback.epub
+75,L.A.,GPE,sources/playback.epub
+76,Washington,GPE,sources/playback.epub
+77,Washington,GPE,sources/playback.epub
+78,Washington,GPE,sources/playback.epub
+79,Washington,GPE,sources/playback.epub
+80,Washington,GPE,sources/playback.epub
+81,Washington,GPE,sources/playback.epub
+82,California,GPE,sources/playback.epub
+83,Washington,GPE,sources/playback.epub
+84,Kansas City,GPE,sources/playback.epub
+85,Esmeralda,GPE,sources/playback.epub
+86,Esmeralda,GPE,sources/playback.epub
+87,Casa,GPE,sources/playback.epub
+88,Esmeralda,GPE,sources/playback.epub
+89,Los Angeles,GPE,sources/playback.epub
+90,San Vincente,GPE,sources/playback.epub
+91,San Diego,GPE,sources/playback.epub
+92,Los Angeles,GPE,sources/playback.epub
+93,Los Angeles,GPE,sources/playback.epub
+94,Oceanside,GPE,sources/playback.epub
+95,Esmeralda,GPE,sources/playback.epub
+96,Lucille,GPE,sources/playback.epub
+97,Brandon,GPE,sources/playback.epub
+98,Lucille,GPE,sources/playback.epub
+99,Lucille,GPE,sources/playback.epub
+100,Lucille,GPE,sources/playback.epub
+101,Casa,GPE,sources/playback.epub
+102,Washington,GPE,sources/playback.epub
+103,D.C.,GPE,sources/playback.epub
+104,Kansas City,GPE,sources/playback.epub
+105,Grand,GPE,sources/playback.epub
+106,L.A.,GPE,sources/playback.epub
+107,L.A.,GPE,sources/playback.epub
+108,L.A.,GPE,sources/playback.epub
+109,L.A.,GPE,sources/playback.epub
+110,California,GPE,sources/playback.epub
+111,Kansas City,GPE,sources/playback.epub
+112,Esmeralda,GPE,sources/playback.epub
+113,Esmeralda,GPE,sources/playback.epub
+114,Kansas City,GPE,sources/playback.epub
+115,California,GPE,sources/playback.epub
+116,Esmeralda,GPE,sources/playback.epub
+117,Kansas City,GPE,sources/playback.epub
+118,Chico,GPE,sources/playback.epub
+119,Brandon,GPE,sources/playback.epub
+120,Brandon,GPE,sources/playback.epub
+121,L.A.,GPE,sources/playback.epub
+122,Esmeralda,GPE,sources/playback.epub
+123,Clarendon,GPE,sources/playback.epub
+124,Uppsala,GPE,sources/playback.epub
+125,Toronto,GPE,sources/playback.epub
+126,Toronto,GPE,sources/playback.epub
+127,Esmeralda,GPE,sources/playback.epub
+128,Del Mar,GPE,sources/playback.epub
+129,Switzerland,GPE,sources/playback.epub
+130,Florida,GPE,sources/playback.epub
+131,Washington,GPE,sources/playback.epub
+132,Margo West’s,GPE,sources/playback.epub
+133,Congo,GPE,sources/playback.epub
+134,Hollywood,GPE,sources/playback.epub
+135,Clarendon,GPE,sources/playback.epub
+136,Clarendon,GPE,sources/playback.epub
+137,Poniente,GPE,sources/playback.epub
+138,Esmeralda,GPE,sources/playback.epub
+139,California,GPE,sources/playback.epub
+140,Esmeralda,GPE,sources/playback.epub
+141,Los Angeles,GPE,sources/playback.epub
+142,Boston,GPE,sources/playback.epub
+143,Casa,GPE,sources/playback.epub
+144,Grand,GPE,sources/playback.epub
+145,Washington,GPE,sources/playback.epub
+146,Virginia,GPE,sources/playback.epub
+147,Rio,GPE,sources/playback.epub
+148,Wedgwood,GPE,sources/playback.epub
+149,Esmeralda,GPE,sources/playback.epub
+150,Italy,GPE,sources/playback.epub
+151,Arizona,GPE,sources/playback.epub
+152,San Diego,GPE,sources/playback.epub
+153,Beverly Hills,GPE,sources/playback.epub
+154,Hellwig,GPE,sources/playback.epub
+155,Esmeralda,GPE,sources/playback.epub
+156,Hellwigs,GPE,sources/playback.epub
+157,Hellwig,GPE,sources/playback.epub
+158,Hellwig,GPE,sources/playback.epub
+159,Grand,GPE,sources/playback.epub
+160,Los Angeles,GPE,sources/playback.epub
+161,Casa,GPE,sources/playback.epub
+162,Casa,GPE,sources/playback.epub
+163,Esmeralda,GPE,sources/playback.epub
+164,Los Angeles,GPE,sources/playback.epub
+165,Washington,GPE,sources/playback.epub
+166,Esmeralda,GPE,sources/playback.epub
+167,Los Angeles,GPE,sources/playback.epub
+168,Casa,GPE,sources/playback.epub
+169,Los Penasquitos Canyon,GPE,sources/playback.epub
+170,the Rancho Descansado,GPE,sources/playback.epub
+171,Casa,GPE,sources/playback.epub
+172,San Diego,GPE,sources/playback.epub
+173,Casa,GPE,sources/playback.epub
+174,Kansas City,GPE,sources/playback.epub
+175,Casa,GPE,sources/playback.epub
+176,Kansas City PI,GPE,sources/playback.epub
+177,Casa,GPE,sources/playback.epub
+178,Casa,GPE,sources/playback.epub
+179,Westfield,GPE,sources/playback.epub
+180,Carolina,GPE,sources/playback.epub
+181,North Carolina,GPE,sources/playback.epub
+182,Los Angeles,GPE,sources/playback.epub
+183,Westfield,GPE,sources/playback.epub
+184,Cumberland,GPE,sources/playback.epub
+185,Cumberland,GPE,sources/playback.epub
+186,Westfield,GPE,sources/playback.epub
+187,Carolina,GPE,sources/playback.epub
+188,Westfield,GPE,sources/playback.epub
+189,North Carolina,GPE,sources/playback.epub
+190,Kansas City,GPE,sources/playback.epub
+191,Brandon,GPE,sources/playback.epub
+192,Los Angeles,GPE,sources/playback.epub
+193,Los Angeles,GPE,sources/playback.epub
+194,Los Angeles,GPE,sources/playback.epub
+195,Washington,GPE,sources/playback.epub
+196,Washington,GPE,sources/playback.epub
+197,D.C.,GPE,sources/playback.epub
+198,Kansas City,GPE,sources/playback.epub
+199,Los Penasquitos Canyon,GPE,sources/playback.epub
+200,Westfield,GPE,sources/playback.epub
+201,North Carolina,GPE,sources/playback.epub
+202,Brandon,GPE,sources/playback.epub
+203,Los Penasquitos Canyon,GPE,sources/playback.epub
+204,Los Penasquitos Canyon,GPE,sources/playback.epub
+205,Los Penasquitos Canyon,GPE,sources/playback.epub
+206,Brandon,GPE,sources/playback.epub
+207,Kansas City,GPE,sources/playback.epub
+208,Esmeralda,GPE,sources/playback.epub
+209,Los Angeles,GPE,sources/playback.epub
+210,Los Angeles,GPE,sources/playback.epub
+211,Lucille,GPE,sources/playback.epub
+212,Lucille,GPE,sources/playback.epub
+213,Los Angeles,GPE,sources/playback.epub
+214,Paris,GPE,sources/playback.epub
+215,Paris,GPE,sources/playback.epub
+216,Esmeralda,GPE,sources/playback.epub
+0,West Hollywood,GPE,sources/trouble_is_my_business.epub
+1,the El Milano,GPE,sources/trouble_is_my_business.epub
+2,Connecticut,GPE,sources/trouble_is_my_business.epub
+3,Arbogast,GPE,sources/trouble_is_my_business.epub
+4,Huntress,GPE,sources/trouble_is_my_business.epub
+5,D.A.,GPE,sources/trouble_is_my_business.epub
+6,Ivar,GPE,sources/trouble_is_my_business.epub
+7,Sunset,GPE,sources/trouble_is_my_business.epub
+8,Chicago,GPE,sources/trouble_is_my_business.epub
+9,Butte,GPE,sources/trouble_is_my_business.epub
+10,California,GPE,sources/trouble_is_my_business.epub
+11,Huntress,GPE,sources/trouble_is_my_business.epub
+12,Scotch,GPE,sources/trouble_is_my_business.epub
+13,Arbogast,GPE,sources/trouble_is_my_business.epub
+14,California,GPE,sources/trouble_is_my_business.epub
+15,Scotch,GPE,sources/trouble_is_my_business.epub
+16,Waxnose’s,GPE,sources/trouble_is_my_business.epub
+17,Arbogast,GPE,sources/trouble_is_my_business.epub
+18,Scotch,GPE,sources/trouble_is_my_business.epub
+19,Yakima,GPE,sources/trouble_is_my_business.epub
+20,Hollywood,GPE,sources/trouble_is_my_business.epub
+21,Beverly Hills,GPE,sources/trouble_is_my_business.epub
+22,Beverly Hills,GPE,sources/trouble_is_my_business.epub
+23,Sebold,GPE,sources/trouble_is_my_business.epub
+24,Bel-Air,GPE,sources/trouble_is_my_business.epub
+25,Homicide,GPE,sources/trouble_is_my_business.epub
+26,Sunset,GPE,sources/trouble_is_my_business.epub
+27,Folsom,GPE,sources/trouble_is_my_business.epub
+28,Kinda,GPE,sources/trouble_is_my_business.epub
+29,Scotch,GPE,sources/trouble_is_my_business.epub
+30,Scotch,GPE,sources/trouble_is_my_business.epub
+31,Arbogast,GPE,sources/trouble_is_my_business.epub
+32,Hoboken,GPE,sources/trouble_is_my_business.epub
+33,Beverly Hills,GPE,sources/trouble_is_my_business.epub
+34,Arbogast,GPE,sources/trouble_is_my_business.epub
+35,California,GPE,sources/trouble_is_my_business.epub
+36,New York,GPE,sources/trouble_is_my_business.epub
+37,Las Olindas,GPE,sources/trouble_is_my_business.epub
+38,Art Shannon’s,GPE,sources/trouble_is_my_business.epub
+39,Las Olindas,GPE,sources/trouble_is_my_business.epub
+40,A.C.,GPE,sources/trouble_is_my_business.epub
+41,Las Olindas,GPE,sources/trouble_is_my_business.epub
+42,Las Olindas,GPE,sources/trouble_is_my_business.epub
+43,Canal City,GPE,sources/trouble_is_my_business.epub
+44,San Angelo,GPE,sources/trouble_is_my_business.epub
+45,West Cimarron,GPE,sources/trouble_is_my_business.epub
+46,West Cimarron,GPE,sources/trouble_is_my_business.epub
+47,Las Olindas,GPE,sources/trouble_is_my_business.epub
+48,West Cimarron,GPE,sources/trouble_is_my_business.epub
+49,San Angelo,GPE,sources/trouble_is_my_business.epub
+50,Las Olindas,GPE,sources/trouble_is_my_business.epub
+51,D.A.,GPE,sources/trouble_is_my_business.epub
+52,Landon ,GPE,sources/trouble_is_my_business.epub
+53,West Cimarron,GPE,sources/trouble_is_my_business.epub
+54,Landon,GPE,sources/trouble_is_my_business.epub
+55,Landon,GPE,sources/trouble_is_my_business.epub
+56,D.A.,GPE,sources/trouble_is_my_business.epub
+57,Gray Lake,GPE,sources/trouble_is_my_business.epub
+58,San Angelo,GPE,sources/trouble_is_my_business.epub
+59,San Angelo,GPE,sources/trouble_is_my_business.epub
+60,Sudden,GPE,sources/trouble_is_my_business.epub
+61,Gray Lake,GPE,sources/trouble_is_my_business.epub
+62,Havana,GPE,sources/trouble_is_my_business.epub
+63,Salt Lake City,GPE,sources/trouble_is_my_business.epub
+64,Leavenworth,GPE,sources/trouble_is_my_business.epub
+65,Leavenworth,GPE,sources/trouble_is_my_business.epub
+66,Wyoming,GPE,sources/trouble_is_my_business.epub
+67,Leavenworth,GPE,sources/trouble_is_my_business.epub
+68,Idaho,GPE,sources/trouble_is_my_business.epub
+69,Olympia,GPE,sources/trouble_is_my_business.epub
+70,Washington,GPE,sources/trouble_is_my_business.epub
+71,New York,GPE,sources/trouble_is_my_business.epub
+72,Canada,GPE,sources/trouble_is_my_business.epub
+73,Tacoma,GPE,sources/trouble_is_my_business.epub
+74,Seattle,GPE,sources/trouble_is_my_business.epub
+75,El Paso,GPE,sources/trouble_is_my_business.epub
+76,Sunset,GPE,sources/trouble_is_my_business.epub
+77,Westport,GPE,sources/trouble_is_my_business.epub
+78,Westport,GPE,sources/trouble_is_my_business.epub
+79,Scotch,GPE,sources/trouble_is_my_business.epub
+80,Madder,GPE,sources/trouble_is_my_business.epub
+81,Sunset,GPE,sources/trouble_is_my_business.epub
+82,Westport,GPE,sources/trouble_is_my_business.epub
+83,Westport,GPE,sources/trouble_is_my_business.epub
+84,Japan,GPE,sources/trouble_is_my_business.epub
+85,the United States,GPE,sources/trouble_is_my_business.epub
+86,Seattle,GPE,sources/trouble_is_my_business.epub
+87,Seattle,GPE,sources/trouble_is_my_business.epub
+88,Westport,GPE,sources/trouble_is_my_business.epub
+89,Westport,GPE,sources/trouble_is_my_business.epub
+90,Leavenworth,GPE,sources/trouble_is_my_business.epub
+91,Olympia,GPE,sources/trouble_is_my_business.epub
+92,Olympia,GPE,sources/trouble_is_my_business.epub
+93,Sudden,GPE,sources/trouble_is_my_business.epub
+94,Madder,GPE,sources/trouble_is_my_business.epub
+95,Madder,GPE,sources/trouble_is_my_business.epub
+96,Westport,GPE,sources/trouble_is_my_business.epub
+97,Westport,GPE,sources/trouble_is_my_business.epub
+98,Idaho,GPE,sources/trouble_is_my_business.epub
+99,Seattle,GPE,sources/trouble_is_my_business.epub
+100,Nice,GPE,sources/trouble_is_my_business.epub
+101,Berglund,GPE,sources/trouble_is_my_business.epub
+102,Costa County,GPE,sources/trouble_is_my_business.epub
+103,Lew,GPE,sources/trouble_is_my_business.epub
+104,Washington,GPE,sources/trouble_is_my_business.epub
+105,Santa Ana,GPE,sources/trouble_is_my_business.epub
+106,Michigan,GPE,sources/trouble_is_my_business.epub
+107,Michigan,GPE,sources/trouble_is_my_business.epub
+108,Washington,GPE,sources/trouble_is_my_business.epub
+109,Boyle Heights,GPE,sources/trouble_is_my_business.epub
+110,California,GPE,sources/trouble_is_my_business.epub
+111,Argentina,GPE,sources/trouble_is_my_business.epub
+112,Argentina,GPE,sources/trouble_is_my_business.epub
+113,Berglund,GPE,sources/trouble_is_my_business.epub
+114,West Los Angeles,GPE,sources/trouble_is_my_business.epub
+115,Nazimova,GPE,sources/trouble_is_my_business.epub
+116,Berglund,GPE,sources/trouble_is_my_business.epub
+117,Shanghai,GPE,sources/trouble_is_my_business.epub
+118,Chiseltown,GPE,sources/trouble_is_my_business.epub
+119,Sunset,GPE,sources/trouble_is_my_business.epub
+120,Beverly Hills,GPE,sources/trouble_is_my_business.epub
+121,Washington,GPE,sources/trouble_is_my_business.epub
+122,Detroit,GPE,sources/trouble_is_my_business.epub
+123,Waldo,GPE,sources/trouble_is_my_business.epub
+124,Barsaly,GPE,sources/trouble_is_my_business.epub
+125,Barsaly,GPE,sources/trouble_is_my_business.epub
+126,Brentwood,GPE,sources/trouble_is_my_business.epub
+127,Barsaly,GPE,sources/trouble_is_my_business.epub
+128,Barsaly,GPE,sources/trouble_is_my_business.epub
+129,Barsaly,GPE,sources/trouble_is_my_business.epub
+130,Barsaly,GPE,sources/trouble_is_my_business.epub
+131,West Los Angeles,GPE,sources/trouble_is_my_business.epub
+132,Uruguay,GPE,sources/trouble_is_my_business.epub
+133,Malibu,GPE,sources/trouble_is_my_business.epub
+0,Idaho,GPE,sources/the_long_goodbye.epub
+1,P.I.,GPE,sources/the_long_goodbye.epub
+2,Hollywood,GPE,sources/the_long_goodbye.epub
+3,San Francisco,GPE,sources/the_long_goodbye.epub
+4,Hollywood,GPE,sources/the_long_goodbye.epub
+5,Vegas,GPE,sources/the_long_goodbye.epub
+6,Vegas,GPE,sources/the_long_goodbye.epub
+7,Sylvia,GPE,sources/the_long_goodbye.epub
+8,England,GPE,sources/the_long_goodbye.epub
+9,Vegas,GPE,sources/the_long_goodbye.epub
+10,Las Vegas,GPE,sources/the_long_goodbye.epub
+11,Las Vegas,GPE,sources/the_long_goodbye.epub
+12,Las Vegas,GPE,sources/the_long_goodbye.epub
+13,Las Vegas,GPE,sources/the_long_goodbye.epub
+14,San Francisco,GPE,sources/the_long_goodbye.epub
+15,Pebble Beach,GPE,sources/the_long_goodbye.epub
+16,Encino,GPE,sources/the_long_goodbye.epub
+17,Hollywood,GPE,sources/the_long_goodbye.epub
+18,Las Vegas,GPE,sources/the_long_goodbye.epub
+19,Vegas,GPE,sources/the_long_goodbye.epub
+20,Salt Lake City,GPE,sources/the_long_goodbye.epub
+21,Tijuana,GPE,sources/the_long_goodbye.epub
+22,L.A.,GPE,sources/the_long_goodbye.epub
+23,Australia,GPE,sources/the_long_goodbye.epub
+24,Tijuana,GPE,sources/the_long_goodbye.epub
+25,Tijuana,GPE,sources/the_long_goodbye.epub
+26,Tijuana,GPE,sources/the_long_goodbye.epub
+27,Mexico,GPE,sources/the_long_goodbye.epub
+28,Pasadena,GPE,sources/the_long_goodbye.epub
+29,Tijuana,GPE,sources/the_long_goodbye.epub
+30,L.A.,GPE,sources/the_long_goodbye.epub
+31,Mexico City,GPE,sources/the_long_goodbye.epub
+32,Tijuana,GPE,sources/the_long_goodbye.epub
+33,Mexico,GPE,sources/the_long_goodbye.epub
+34,Tijuana,GPE,sources/the_long_goodbye.epub
+35,Tijuana,GPE,sources/the_long_goodbye.epub
+36,Tijuana,GPE,sources/the_long_goodbye.epub
+37,Mexico,GPE,sources/the_long_goodbye.epub
+38,San Diego,GPE,sources/the_long_goodbye.epub
+39,Encino,GPE,sources/the_long_goodbye.epub
+40,Victor‘s,GPE,sources/the_long_goodbye.epub
+41,El Paso,GPE,sources/the_long_goodbye.epub
+42,Mexico City,GPE,sources/the_long_goodbye.epub
+43,Wyoming,GPE,sources/the_long_goodbye.epub
+44,D.A.,GPE,sources/the_long_goodbye.epub
+45,D.A.,GPE,sources/the_long_goodbye.epub
+46,Septum,GPE,sources/the_long_goodbye.epub
+47,Pittsburgh,GPE,sources/the_long_goodbye.epub
+48,Virginian,GPE,sources/the_long_goodbye.epub
+49,San Diego,GPE,sources/the_long_goodbye.epub
+50,Texas,GPE,sources/the_long_goodbye.epub
+51,Mexico,GPE,sources/the_long_goodbye.epub
+52,Mexico City,GPE,sources/the_long_goodbye.epub
+53,Mexico,GPE,sources/the_long_goodbye.epub
+54,D.A.,GPE,sources/the_long_goodbye.epub
+55,Washington,GPE,sources/the_long_goodbye.epub
+56,Questioning,GPE,sources/the_long_goodbye.epub
+57,Encino,GPE,sources/the_long_goodbye.epub
+58,Los Angeles,GPE,sources/the_long_goodbye.epub
+59,Pasadena,GPE,sources/the_long_goodbye.epub
+60,Mexico,GPE,sources/the_long_goodbye.epub
+61,Bel-Air,GPE,sources/the_long_goodbye.epub
+62,Florida,GPE,sources/the_long_goodbye.epub
+63,Vegas,GPE,sources/the_long_goodbye.epub
+64,Las Vegas,GPE,sources/the_long_goodbye.epub
+65,New York,GPE,sources/the_long_goodbye.epub
+66,California,GPE,sources/the_long_goodbye.epub
+67,Mexico,GPE,sources/the_long_goodbye.epub
+68,Acapulco,GPE,sources/the_long_goodbye.epub
+69,Lucrezia,GPE,sources/the_long_goodbye.epub
+70,Cap Antibes,GPE,sources/the_long_goodbye.epub
+71,California,GPE,sources/the_long_goodbye.epub
+72,New York,GPE,sources/the_long_goodbye.epub
+73,Santa Rosa,GPE,sources/the_long_goodbye.epub
+74,New York,GPE,sources/the_long_goodbye.epub
+75,Nice,GPE,sources/the_long_goodbye.epub
+76,Portland,GPE,sources/the_long_goodbye.epub
+77,Long Beach,GPE,sources/the_long_goodbye.epub
+78,P.S.,GPE,sources/the_long_goodbye.epub
+79,the City Hall,GPE,sources/the_long_goodbye.epub
+80,Beverly Hills,GPE,sources/the_long_goodbye.epub
+81,England,GPE,sources/the_long_goodbye.epub
+82,England,GPE,sources/the_long_goodbye.epub
+83,California,GPE,sources/the_long_goodbye.epub
+84,New York,GPE,sources/the_long_goodbye.epub
+85,Seattle,GPE,sources/the_long_goodbye.epub
+86,California,GPE,sources/the_long_goodbye.epub
+87,Olds,GPE,sources/the_long_goodbye.epub
+88,Varley,GPE,sources/the_long_goodbye.epub
+89,Idle Valley,GPE,sources/the_long_goodbye.epub
+90,Los Angeles,GPE,sources/the_long_goodbye.epub
+91,Hollywood,GPE,sources/the_long_goodbye.epub
+92,Vukanich,GPE,sources/the_long_goodbye.epub
+93,Cochise County,GPE,sources/the_long_goodbye.epub
+94,Cuba,GPE,sources/the_long_goodbye.epub
+95,Ventura,GPE,sources/the_long_goodbye.epub
+96,Encino,GPE,sources/the_long_goodbye.epub
+97,Culver City,GPE,sources/the_long_goodbye.epub
+98,S.P.C.A.,GPE,sources/the_long_goodbye.epub
+99,S.P.C.A.,GPE,sources/the_long_goodbye.epub
+100,Honolulu,GPE,sources/the_long_goodbye.epub
+101,Honolulu,GPE,sources/the_long_goodbye.epub
+102,Seattle,GPE,sources/the_long_goodbye.epub
+103,Honolulu,GPE,sources/the_long_goodbye.epub
+104,Kerrigan,GPE,sources/the_long_goodbye.epub
+105,Honolulu,GPE,sources/the_long_goodbye.epub
+106,Honolulu,GPE,sources/the_long_goodbye.epub
+107,P.I.,GPE,sources/the_long_goodbye.epub
+108,Mexico,GPE,sources/the_long_goodbye.epub
+109,Hollywood,GPE,sources/the_long_goodbye.epub
+110,D.A.,GPE,sources/the_long_goodbye.epub
+111,Mexico,GPE,sources/the_long_goodbye.epub
+112,Mexico,GPE,sources/the_long_goodbye.epub
+113,’s,GPE,sources/the_long_goodbye.epub
+114,Idle Valley,GPE,sources/the_long_goodbye.epub
+115,Hollywood,GPE,sources/the_long_goodbye.epub
+116,Carolina,GPE,sources/the_long_goodbye.epub
+117,Norway,GPE,sources/the_long_goodbye.epub
+118,Gortchakoff,GPE,sources/the_long_goodbye.epub
+119,Meninkin,GPE,sources/the_long_goodbye.epub
+120,Siam,GPE,sources/the_long_goodbye.epub
+121,Cuba,GPE,sources/the_long_goodbye.epub
+122,Mexico,GPE,sources/the_long_goodbye.epub
+123,Sioux City Sue,GPE,sources/the_long_goodbye.epub
+124,Sioux City Sue,GPE,sources/the_long_goodbye.epub
+125,London,GPE,sources/the_long_goodbye.epub
+126,Idle Valley,GPE,sources/the_long_goodbye.epub
+127,Georgia,GPE,sources/the_long_goodbye.epub
+128,Scotch,GPE,sources/the_long_goodbye.epub
+129,Boston,GPE,sources/the_long_goodbye.epub
+130,Boston,GPE,sources/the_long_goodbye.epub
+131,Tijuana,GPE,sources/the_long_goodbye.epub
+132,Tijuana,GPE,sources/the_long_goodbye.epub
+133,New York,GPE,sources/the_long_goodbye.epub
+134,California,GPE,sources/the_long_goodbye.epub
+135,Ramona Desborough,GPE,sources/the_long_goodbye.epub
+136,New York,GPE,sources/the_long_goodbye.epub
+137,Las Vegas,GPE,sources/the_long_goodbye.epub
+138,Mexico,GPE,sources/the_long_goodbye.epub
+139,Mexico,GPE,sources/the_long_goodbye.epub
+140,Pasadena,GPE,sources/the_long_goodbye.epub
+141,Mexico,GPE,sources/the_long_goodbye.epub
+142,Los Angeles County,GPE,sources/the_long_goodbye.epub
+143,the Empire State Building,GPE,sources/the_long_goodbye.epub
+144,Tahiti,GPE,sources/the_long_goodbye.epub
+145,Guatemala,GPE,sources/the_long_goodbye.epub
+146,Hollywood,GPE,sources/the_long_goodbye.epub
+147,Beverly Hills,GPE,sources/the_long_goodbye.epub
+148,Pasadena,GPE,sources/the_long_goodbye.epub
+149,Beverly Hills,GPE,sources/the_long_goodbye.epub
+150,New York,GPE,sources/the_long_goodbye.epub
+151,New York,GPE,sources/the_long_goodbye.epub
+152,New York,GPE,sources/the_long_goodbye.epub
+153,Idle Valley,GPE,sources/the_long_goodbye.epub
+154,Washington,GPE,sources/the_long_goodbye.epub
+155,Vegas,GPE,sources/the_long_goodbye.epub
+156,Vegas,GPE,sources/the_long_goodbye.epub
+157,Scotch,GPE,sources/the_long_goodbye.epub
+158,Athens,GPE,sources/the_long_goodbye.epub
+159,Rome,GPE,sources/the_long_goodbye.epub
+160,France,GPE,sources/the_long_goodbye.epub
+161,France,GPE,sources/the_long_goodbye.epub
+162,Scotch,GPE,sources/the_long_goodbye.epub
+163,England,GPE,sources/the_long_goodbye.epub
+164,England,GPE,sources/the_long_goodbye.epub
+165,New York,GPE,sources/the_long_goodbye.epub
+166,New York,GPE,sources/the_long_goodbye.epub
+167,Idle Valley,GPE,sources/the_long_goodbye.epub
+168,New York,GPE,sources/the_long_goodbye.epub
+169,Idle Valley,GPE,sources/the_long_goodbye.epub
+170,Tibet,GPE,sources/the_long_goodbye.epub
+171,Chicago,GPE,sources/the_long_goodbye.epub
+172,Hollywood,GPE,sources/the_long_goodbye.epub
+173,’s,GPE,sources/the_long_goodbye.epub
+174,Ivory Soap,GPE,sources/the_long_goodbye.epub
+175,New York,GPE,sources/the_long_goodbye.epub
+176,New York,GPE,sources/the_long_goodbye.epub
+177,Catalina,GPE,sources/the_long_goodbye.epub
+178,England,GPE,sources/the_long_goodbye.epub
+179,Magoon,GPE,sources/the_long_goodbye.epub
+180,Nevada,GPE,sources/the_long_goodbye.epub
+181,Nevada,GPE,sources/the_long_goodbye.epub
+182,England,GPE,sources/the_long_goodbye.epub
+183,Norway,GPE,sources/the_long_goodbye.epub
+184,England,GPE,sources/the_long_goodbye.epub
+185,London,GPE,sources/the_long_goodbye.epub
+186,P.I.,GPE,sources/the_long_goodbye.epub
+187,London,GPE,sources/the_long_goodbye.epub
+188,California,GPE,sources/the_long_goodbye.epub
+189,New York,GPE,sources/the_long_goodbye.epub
+190,Idle Valley,GPE,sources/the_long_goodbye.epub
+191,New York,GPE,sources/the_long_goodbye.epub
+192,Los Angeles,GPE,sources/the_long_goodbye.epub
+193,Idle Valley,GPE,sources/the_long_goodbye.epub
+194,Idle Valley,GPE,sources/the_long_goodbye.epub
+195,Norway,GPE,sources/the_long_goodbye.epub
+196,London,GPE,sources/the_long_goodbye.epub
+197,Norway,GPE,sources/the_long_goodbye.epub
+198,New York,GPE,sources/the_long_goodbye.epub
+199,Norway,GPE,sources/the_long_goodbye.epub
+200,London,GPE,sources/the_long_goodbye.epub
+201,Beverly Hills,GPE,sources/the_long_goodbye.epub
+202,New York,GPE,sources/the_long_goodbye.epub
+203,Pasadena,GPE,sources/the_long_goodbye.epub
+204,Mexico,GPE,sources/the_long_goodbye.epub
+205,Mexico,GPE,sources/the_long_goodbye.epub
+206,’s,GPE,sources/the_long_goodbye.epub
+207,the Chatsworth Reservoir,GPE,sources/the_long_goodbye.epub
+208,San Quentin,GPE,sources/the_long_goodbye.epub
+209,Valparaíso,GPE,sources/the_long_goodbye.epub
+210,Beverly Hills,GPE,sources/the_long_goodbye.epub
+211,La,GPE,sources/the_long_goodbye.epub
+212,New York,GPE,sources/the_long_goodbye.epub
+213,Santa Barbara,GPE,sources/the_long_goodbye.epub
+214,England,GPE,sources/the_long_goodbye.epub
+215,Encino,GPE,sources/the_long_goodbye.epub
+216,D.A.,GPE,sources/the_long_goodbye.epub
+217,P.I.,GPE,sources/the_long_goodbye.epub
+218,D.A.,GPE,sources/the_long_goodbye.epub
+219,Chance,GPE,sources/the_long_goodbye.epub
+220,Norway,GPE,sources/the_long_goodbye.epub
+221,D.A.,GPE,sources/the_long_goodbye.epub
+222,D.A.,GPE,sources/the_long_goodbye.epub
+223,the City Bastille,GPE,sources/the_long_goodbye.epub
+224,Nevada,GPE,sources/the_long_goodbye.epub
+225,Nevada,GPE,sources/the_long_goodbye.epub
+226,Reno,GPE,sources/the_long_goodbye.epub
+227,Vegas,GPE,sources/the_long_goodbye.epub
+228,Nevada,GPE,sources/the_long_goodbye.epub
+229,Tahoe,GPE,sources/the_long_goodbye.epub
+230,L.A.,GPE,sources/the_long_goodbye.epub
+231,D.A.,GPE,sources/the_long_goodbye.epub
+232,D.A.,GPE,sources/the_long_goodbye.epub
+233,P.I.,GPE,sources/the_long_goodbye.epub
+234,Paris,GPE,sources/the_long_goodbye.epub
+235,Paris,GPE,sources/the_long_goodbye.epub
+236,Paris,GPE,sources/the_long_goodbye.epub
+237,Menendez,GPE,sources/the_long_goodbye.epub
+238,Nevada,GPE,sources/the_long_goodbye.epub
+239,Vegas,GPE,sources/the_long_goodbye.epub
+240,Nevada,GPE,sources/the_long_goodbye.epub
+241,Vegas,GPE,sources/the_long_goodbye.epub
+242,Vegas,GPE,sources/the_long_goodbye.epub
+243,Reno,GPE,sources/the_long_goodbye.epub
+244,Vegas,GPE,sources/the_long_goodbye.epub
+245,the City Hall,GPE,sources/the_long_goodbye.epub
+246,Paris,GPE,sources/the_long_goodbye.epub
+247,Las Vegas,GPE,sources/the_long_goodbye.epub
+248,Vegas,GPE,sources/the_long_goodbye.epub
+249,Vegas,GPE,sources/the_long_goodbye.epub
+250,Vegas,GPE,sources/the_long_goodbye.epub
+251,Nevada,GPE,sources/the_long_goodbye.epub
+252,Nevada,GPE,sources/the_long_goodbye.epub
+253,Paris,GPE,sources/the_long_goodbye.epub
+254,’s,GPE,sources/the_long_goodbye.epub
+255,San Francisco,GPE,sources/the_long_goodbye.epub
+256,New York,GPE,sources/the_long_goodbye.epub
+257,Washington,GPE,sources/the_long_goodbye.epub
+258,Mexico,GPE,sources/the_long_goodbye.epub
+259,Endicott’s,GPE,sources/the_long_goodbye.epub
+260,Las Vegas,GPE,sources/the_long_goodbye.epub
+261,Mexico City,GPE,sources/the_long_goodbye.epub
+262,D.A.,GPE,sources/the_long_goodbye.epub
+263,Mexico City,GPE,sources/the_long_goodbye.epub
+264,Nordic,GPE,sources/the_long_goodbye.epub
+265,Acapulco,GPE,sources/the_long_goodbye.epub
+266,Mexico,GPE,sources/the_long_goodbye.epub
+267,Salt Lake City,GPE,sources/the_long_goodbye.epub
+268,Montreal,GPE,sources/the_long_goodbye.epub
+269,Mexico,GPE,sources/the_long_goodbye.epub
+270,Tijuana,GPE,sources/the_long_goodbye.epub
+0,Negroes,GPE,sources/farewell_my_lovely.epub
+1,Negroes,GPE,sources/farewell_my_lovely.epub
+2,Denver,GPE,sources/farewell_my_lovely.epub
+3,Pierrot,GPE,sources/farewell_my_lovely.epub
+4,Pierrot,GPE,sources/farewell_my_lovely.epub
+5,Ventura,GPE,sources/farewell_my_lovely.epub
+6,Bay City,GPE,sources/farewell_my_lovely.epub
+7,Trocadero,GPE,sources/farewell_my_lovely.epub
+8,Marriott,GPE,sources/farewell_my_lovely.epub
+9,Bay City,GPE,sources/farewell_my_lovely.epub
+10,Las Pulgas,GPE,sources/farewell_my_lovely.epub
+11,Iowa,GPE,sources/farewell_my_lovely.epub
+12,Marriott,GPE,sources/farewell_my_lovely.epub
+13,Bay City,GPE,sources/farewell_my_lovely.epub
+14,’s,GPE,sources/farewell_my_lovely.epub
+15,West Los Angeles,GPE,sources/farewell_my_lovely.epub
+16,Los Angeles,GPE,sources/farewell_my_lovely.epub
+17,Los Angeles,GPE,sources/farewell_my_lovely.epub
+18,Marriott,GPE,sources/farewell_my_lovely.epub
+19,Marriott,GPE,sources/farewell_my_lovely.epub
+20,Ventura,GPE,sources/farewell_my_lovely.epub
+21,San Jack,GPE,sources/farewell_my_lovely.epub
+22,St. Swithin’s Day,GPE,sources/farewell_my_lovely.epub
+23,Cliff Riordan,GPE,sources/farewell_my_lovely.epub
+24,Bay City,GPE,sources/farewell_my_lovely.epub
+25,Bay City,GPE,sources/farewell_my_lovely.epub
+26,Bay City,GPE,sources/farewell_my_lovely.epub
+27,Beverly Hills,GPE,sources/farewell_my_lovely.epub
+28,Station KFDK,GPE,sources/farewell_my_lovely.epub
+29,Marriott,GPE,sources/farewell_my_lovely.epub
+30,Bay City,GPE,sources/farewell_my_lovely.epub
+31,U.S.A.,GPE,sources/farewell_my_lovely.epub
+32,Stillwood Heights,GPE,sources/farewell_my_lovely.epub
+33,Stillwood Heights,GPE,sources/farewell_my_lovely.epub
+34,Stillwood Heights,GPE,sources/farewell_my_lovely.epub
+35,Hollywood,GPE,sources/farewell_my_lovely.epub
+36,Ivar,GPE,sources/farewell_my_lovely.epub
+37,Sudden,GPE,sources/farewell_my_lovely.epub
+38,Mason City,GPE,sources/farewell_my_lovely.epub
+39,Texas,GPE,sources/farewell_my_lovely.epub
+40,Mexico,GPE,sources/farewell_my_lovely.epub
+41,Hollywood,GPE,sources/farewell_my_lovely.epub
+42,Bay City,GPE,sources/farewell_my_lovely.epub
+43,Grayle,GPE,sources/farewell_my_lovely.epub
+44,California,GPE,sources/farewell_my_lovely.epub
+45,Aesop,GPE,sources/farewell_my_lovely.epub
+46,Scotch,GPE,sources/farewell_my_lovely.epub
+47,Newton,GPE,sources/farewell_my_lovely.epub
+48,Brentwood Heights,GPE,sources/farewell_my_lovely.epub
+49,Santa Monica,GPE,sources/farewell_my_lovely.epub
+50,Santa Monica,GPE,sources/farewell_my_lovely.epub
+51,Beverly Hills,GPE,sources/farewell_my_lovely.epub
+52,California,GPE,sources/farewell_my_lovely.epub
+53,Chicago,GPE,sources/farewell_my_lovely.epub
+54,Grayle,GPE,sources/farewell_my_lovely.epub
+55,Hollywood,GPE,sources/farewell_my_lovely.epub
+56,Sunset,GPE,sources/farewell_my_lovely.epub
+57,Hollywood,GPE,sources/farewell_my_lovely.epub
+58,Beverly Hills,GPE,sources/farewell_my_lovely.epub
+59,Beverly Hills,GPE,sources/farewell_my_lovely.epub
+60,Stillwood Heights,GPE,sources/farewell_my_lovely.epub
+61,Bay City,GPE,sources/farewell_my_lovely.epub
+62,Los Angeles,GPE,sources/farewell_my_lovely.epub
+63,L.A.,GPE,sources/farewell_my_lovely.epub
+64,Bay City,GPE,sources/farewell_my_lovely.epub
+65,Cedar City,GPE,sources/farewell_my_lovely.epub
+66,Iowa,GPE,sources/farewell_my_lovely.epub
+67,California,GPE,sources/farewell_my_lovely.epub
+68,Malmsey,GPE,sources/farewell_my_lovely.epub
+69,Malmsey,GPE,sources/farewell_my_lovely.epub
+70,Bay City,GPE,sources/farewell_my_lovely.epub
+71,Bay City,GPE,sources/farewell_my_lovely.epub
+72,Seattle,GPE,sources/farewell_my_lovely.epub
+73,Chicago,GPE,sources/farewell_my_lovely.epub
+74,Los Angeles,GPE,sources/farewell_my_lovely.epub
+75,Santa Monica,GPE,sources/farewell_my_lovely.epub
+76,Hollywood,GPE,sources/farewell_my_lovely.epub
+77,Bay City,GPE,sources/farewell_my_lovely.epub
+78,Bay City,GPE,sources/farewell_my_lovely.epub
+79,Bay City,GPE,sources/farewell_my_lovely.epub
+80,Stillwood Heights,GPE,sources/farewell_my_lovely.epub
+81,L.A.,GPE,sources/farewell_my_lovely.epub
+82,Bay City,GPE,sources/farewell_my_lovely.epub
+83,Marriott,GPE,sources/farewell_my_lovely.epub
+84,Marriott,GPE,sources/farewell_my_lovely.epub
+85,Pierrot,GPE,sources/farewell_my_lovely.epub
+86,Bay City,GPE,sources/farewell_my_lovely.epub
+87,Bay City,GPE,sources/farewell_my_lovely.epub
+88,Mason City,GPE,sources/farewell_my_lovely.epub
+89,Oregon,GPE,sources/farewell_my_lovely.epub
+90,Marriott,GPE,sources/farewell_my_lovely.epub
+91,Bay City,GPE,sources/farewell_my_lovely.epub
+92,Palm Springs,GPE,sources/farewell_my_lovely.epub
+93,Hollywood,GPE,sources/farewell_my_lovely.epub
+94,Hollywood,GPE,sources/farewell_my_lovely.epub
+95,Bay City,GPE,sources/farewell_my_lovely.epub
+96,California,GPE,sources/farewell_my_lovely.epub
+97,Stillwood Heights,GPE,sources/farewell_my_lovely.epub
+98,Stillwood Heights,GPE,sources/farewell_my_lovely.epub
+99,Stillwood Heights,GPE,sources/farewell_my_lovely.epub
+100,L.A.,GPE,sources/farewell_my_lovely.epub
+101,Richelieu,GPE,sources/farewell_my_lovely.epub
+102,Stillwood Heights,GPE,sources/farewell_my_lovely.epub
+103,Stillwood Heights,GPE,sources/farewell_my_lovely.epub
+104,Stillwood Heights,GPE,sources/farewell_my_lovely.epub
+105,Descanso,GPE,sources/farewell_my_lovely.epub
+106,Stillwood Heights,GPE,sources/farewell_my_lovely.epub
+107,L.A.,GPE,sources/farewell_my_lovely.epub
+108,Bay City,GPE,sources/farewell_my_lovely.epub
+109,Mexico,GPE,sources/farewell_my_lovely.epub
+110,Panama,GPE,sources/farewell_my_lovely.epub
+111,California,GPE,sources/farewell_my_lovely.epub
+112,Bay City,GPE,sources/farewell_my_lovely.epub
+113,Bay City,GPE,sources/farewell_my_lovely.epub
+114,California,GPE,sources/farewell_my_lovely.epub
+115,Bay City,GPE,sources/farewell_my_lovely.epub
+116,Bay City,GPE,sources/farewell_my_lovely.epub
+117,Bay City,GPE,sources/farewell_my_lovely.epub
+118,Bay City,GPE,sources/farewell_my_lovely.epub
+119,San Diego,GPE,sources/farewell_my_lovely.epub
+120,Scotch,GPE,sources/farewell_my_lovely.epub
+121,Bay City,GPE,sources/farewell_my_lovely.epub
+122,Hollywood,GPE,sources/farewell_my_lovely.epub
+123,Grayle,GPE,sources/farewell_my_lovely.epub
+124,Bay City,GPE,sources/farewell_my_lovely.epub
+125,Scotch,GPE,sources/farewell_my_lovely.epub
+126,Bay City,GPE,sources/farewell_my_lovely.epub
+127,Grade,GPE,sources/farewell_my_lovely.epub
+128,Hollywood,GPE,sources/farewell_my_lovely.epub
+129,Marriott,GPE,sources/farewell_my_lovely.epub
+130,D.A.,GPE,sources/farewell_my_lovely.epub
+131,Rennenkamp,GPE,sources/farewell_my_lovely.epub
+132,Grayle,GPE,sources/farewell_my_lovely.epub
+133,New York,GPE,sources/farewell_my_lovely.epub
+134,Paris,GPE,sources/farewell_my_lovely.epub
+135,Bay City,GPE,sources/farewell_my_lovely.epub
+136,’s,GPE,sources/farewell_my_lovely.epub
+137,Grayle,GPE,sources/farewell_my_lovely.epub
+138,Baltimore,GPE,sources/farewell_my_lovely.epub
+139,Rennenkamp,GPE,sources/farewell_my_lovely.epub
+140,Grayle,GPE,sources/farewell_my_lovely.epub
+141,Grayle,GPE,sources/farewell_my_lovely.epub
+0,Sternwood,GPE,sources/big_sleep.epub
+1,Regan,GPE,sources/big_sleep.epub
+2,Regan’s,GPE,sources/big_sleep.epub
+3,Regan,GPE,sources/big_sleep.epub
+4,Regan,GPE,sources/big_sleep.epub
+5,Sternwood,GPE,sources/big_sleep.epub
+6,Regan,GPE,sources/big_sleep.epub
+7,La Brea,GPE,sources/big_sleep.epub
+8,U.S.A.,GPE,sources/big_sleep.epub
+9,Regan,GPE,sources/big_sleep.epub
+10,D.A.,GPE,sources/big_sleep.epub
+11,Sternwood,GPE,sources/big_sleep.epub
+12,Regan,GPE,sources/big_sleep.epub
+13,Regan,GPE,sources/big_sleep.epub
+14,the City Hall,GPE,sources/big_sleep.epub
+15,Los Angeles,GPE,sources/big_sleep.epub
+16,Lafayette Park,GPE,sources/big_sleep.epub
+17,Sternwood,GPE,sources/big_sleep.epub
+18,Sternwood,GPE,sources/big_sleep.epub
+19,Regan,GPE,sources/big_sleep.epub
+20,Regan,GPE,sources/big_sleep.epub
+21,Regan,GPE,sources/big_sleep.epub
+22,Plymouth,GPE,sources/big_sleep.epub
+23,Pasadena,GPE,sources/big_sleep.epub
+24,Pasadena,GPE,sources/big_sleep.epub
+25,Regan,GPE,sources/big_sleep.epub
+26,Hollywood,GPE,sources/big_sleep.epub
+27,L.A.,GPE,sources/big_sleep.epub
+28,Carson City,GPE,sources/big_sleep.epub
+29,Canino’s,GPE,sources/big_sleep.epub
+30,Santa Monica,GPE,sources/big_sleep.epub
+31,Plymouth,GPE,sources/big_sleep.epub
+32,Sternwood,GPE,sources/big_sleep.epub
+33,Sternwood,GPE,sources/big_sleep.epub
+34,Chicago,GPE,sources/big_sleep.epub
+35,Bunker Hill,GPE,sources/big_sleep.epub
+36,Plymouth,GPE,sources/big_sleep.epub
+37,Plymouth,GPE,sources/big_sleep.epub
+38,Beverly Hills,GPE,sources/big_sleep.epub
+39,Washington,GPE,sources/big_sleep.epub
+40,Regan,GPE,sources/big_sleep.epub
+41,Regan,GPE,sources/big_sleep.epub
+42,Regan,GPE,sources/big_sleep.epub
+43,Sternwood,GPE,sources/big_sleep.epub
+44,Vardi’s,GPE,sources/big_sleep.epub
+45,Regan,GPE,sources/big_sleep.epub
+46,Canino’s,GPE,sources/big_sleep.epub
+47,Sternwood,GPE,sources/big_sleep.epub
+48,Regan,GPE,sources/big_sleep.epub
+49,Regan,GPE,sources/big_sleep.epub
+50,L.A.,GPE,sources/big_sleep.epub
+51,Sternwood,GPE,sources/big_sleep.epub
+52,Scotch,GPE,sources/big_sleep.epub
+53,Long Island,GPE,sources/big_sleep.epub
+54,Scotch,GPE,sources/big_sleep.epub
+55,Scotch,GPE,sources/big_sleep.epub
+56,Las Olindas,GPE,sources/big_sleep.epub
+57,Las Olindas,GPE,sources/big_sleep.epub
+58,Del Rey,GPE,sources/big_sleep.epub
+59,Del Rey,GPE,sources/big_sleep.epub
+60,Kenmore,GPE,sources/big_sleep.epub
+61,Hollywood,GPE,sources/big_sleep.epub
+62,Burma,GPE,sources/big_sleep.epub
+63,California,GPE,sources/big_sleep.epub
+64,Scotch,GPE,sources/big_sleep.epub
+65,Havana,GPE,sources/big_sleep.epub
+66,Monterey,GPE,sources/big_sleep.epub
+67,Sternwood,GPE,sources/big_sleep.epub
+68,Hollywood,GPE,sources/big_sleep.epub
+69,Regan,GPE,sources/big_sleep.epub
+70,Las Olindas,GPE,sources/big_sleep.epub
+71,Florida,GPE,sources/big_sleep.epub
+72,Regan,GPE,sources/big_sleep.epub
+73,Regan,GPE,sources/big_sleep.epub
+74,Regan,GPE,sources/big_sleep.epub
+75,Regan,GPE,sources/big_sleep.epub
+76,Sternwood,GPE,sources/big_sleep.epub
+77,West Hollywood,GPE,sources/big_sleep.epub
+78,D.A.,GPE,sources/big_sleep.epub
+79,Regan,GPE,sources/big_sleep.epub
+80,Regan,GPE,sources/big_sleep.epub
+81,Regan,GPE,sources/big_sleep.epub
+82,Regan,GPE,sources/big_sleep.epub
+83,Regan,GPE,sources/big_sleep.epub
+84,Regan,GPE,sources/big_sleep.epub
+85,Regan,GPE,sources/big_sleep.epub
+86,Sternwood,GPE,sources/big_sleep.epub
+87,Regan,GPE,sources/big_sleep.epub
+88,Sternwood,GPE,sources/big_sleep.epub
+89,Lafayette Park,GPE,sources/big_sleep.epub
+90,Los Angeles,GPE,sources/big_sleep.epub
+91,West Adams,GPE,sources/big_sleep.epub
+92,Lido,GPE,sources/big_sleep.epub
+93,Lido,GPE,sources/big_sleep.epub
+94,Hollywood,GPE,sources/big_sleep.epub
+95,Sternwood,GPE,sources/big_sleep.epub
+96,Regan,GPE,sources/big_sleep.epub
+97,Regan,GPE,sources/big_sleep.epub
+98,San Quentin,GPE,sources/big_sleep.epub
+99,Carmen,GPE,sources/big_sleep.epub
+100,Western,GPE,sources/big_sleep.epub
+101,Santa Monica,GPE,sources/big_sleep.epub
+102,Lido,GPE,sources/big_sleep.epub
+103,Carmen,GPE,sources/big_sleep.epub
+104,Sunset,GPE,sources/big_sleep.epub
+105,Beverly Hills,GPE,sources/big_sleep.epub
+106,Carmen,GPE,sources/big_sleep.epub
+107,Carmen,GPE,sources/big_sleep.epub
+108,Bali,GPE,sources/big_sleep.epub
+109,Hollywood,GPE,sources/big_sleep.epub
+110,Las Olindas,GPE,sources/big_sleep.epub
+111,L.A.,GPE,sources/big_sleep.epub
+112,Limerick,GPE,sources/big_sleep.epub
+113,Hollywood,GPE,sources/big_sleep.epub
+114,Los Angeles,GPE,sources/big_sleep.epub
+115,Sudden,GPE,sources/big_sleep.epub
+116,Sternwood,GPE,sources/big_sleep.epub
+117,California,GPE,sources/big_sleep.epub
+118,Lido,GPE,sources/big_sleep.epub
+119,West Hollywood,GPE,sources/big_sleep.epub
+120,Las Olindas,GPE,sources/big_sleep.epub
+121,"Dubuque, Iowa",GPE,sources/big_sleep.epub
+122,Sternwood,GPE,sources/big_sleep.epub
+123,Las Olindas,GPE,sources/big_sleep.epub
+124,Lido,GPE,sources/big_sleep.epub
+125,Regan,GPE,sources/big_sleep.epub
+126,Regan,GPE,sources/big_sleep.epub
+127,Lido,GPE,sources/big_sleep.epub
+128,Sternwood,GPE,sources/big_sleep.epub
+129,Sternwood,GPE,sources/big_sleep.epub
+130,Yuma,GPE,sources/big_sleep.epub
+131,D.A.,GPE,sources/big_sleep.epub
+132,the U. S. ’,GPE,sources/big_sleep.epub
+133,Regan,GPE,sources/big_sleep.epub
+134,Regan,GPE,sources/big_sleep.epub
+135,Regan,GPE,sources/big_sleep.epub
+136,Hollywood,GPE,sources/big_sleep.epub
+137,Sternwood,GPE,sources/big_sleep.epub
+138,West Hollywood,GPE,sources/big_sleep.epub
+139,California,GPE,sources/big_sleep.epub
+140,Las Palmas,GPE,sources/big_sleep.epub
+141,Scotch,GPE,sources/big_sleep.epub
+142,Hollywood,GPE,sources/big_sleep.epub
+143,St. Louis,GPE,sources/big_sleep.epub
+144,the United States,GPE,sources/big_sleep.epub
+145,West Hollywood,GPE,sources/big_sleep.epub
+146,California,GPE,sources/big_sleep.epub
+147,Sternwood,GPE,sources/big_sleep.epub
+148,Sternwood,GPE,sources/big_sleep.epub
+0,Brazil,GPE,sources/the_lady_in_the_lake.epub
+1,Hollywood,GPE,sources/the_lady_in_the_lake.epub
+2,El Paso,GPE,sources/the_lady_in_the_lake.epub
+3,Texas,GPE,sources/the_lady_in_the_lake.epub
+4,San Bernardino,GPE,sources/the_lady_in_the_lake.epub
+5,Scotch,GPE,sources/the_lady_in_the_lake.epub
+6,El Paso,GPE,sources/the_lady_in_the_lake.epub
+7,Washington,GPE,sources/the_lady_in_the_lake.epub
+8,Bay City,GPE,sources/the_lady_in_the_lake.epub
+9,Bay City,GPE,sources/the_lady_in_the_lake.epub
+10,Bay City,GPE,sources/the_lady_in_the_lake.epub
+11,Malibu,GPE,sources/the_lady_in_the_lake.epub
+12,Bay City,GPE,sources/the_lady_in_the_lake.epub
+13,El Paso,GPE,sources/the_lady_in_the_lake.epub
+14,El Paso,GPE,sources/the_lady_in_the_lake.epub
+15,El Paso,GPE,sources/the_lady_in_the_lake.epub
+16,M.D.,GPE,sources/the_lady_in_the_lake.epub
+17,Almore,GPE,sources/the_lady_in_the_lake.epub
+18,Los Angeles,GPE,sources/the_lady_in_the_lake.epub
+19,Puma Lake,GPE,sources/the_lady_in_the_lake.epub
+20,San Bernardino,GPE,sources/the_lady_in_the_lake.epub
+21,Bubbling Springs,GPE,sources/the_lady_in_the_lake.epub
+22,California,GPE,sources/the_lady_in_the_lake.epub
+23,Riverside,GPE,sources/the_lady_in_the_lake.epub
+24,Greenwich Village,GPE,sources/the_lady_in_the_lake.epub
+25,El Paso,GPE,sources/the_lady_in_the_lake.epub
+26,Mexico,GPE,sources/the_lady_in_the_lake.epub
+27,Florida,GPE,sources/the_lady_in_the_lake.epub
+28,L.A.,GPE,sources/the_lady_in_the_lake.epub
+29,Mount Vernon,GPE,sources/the_lady_in_the_lake.epub
+30,Patton,GPE,sources/the_lady_in_the_lake.epub
+31,Mount Vernon,GPE,sources/the_lady_in_the_lake.epub
+32,Patton,GPE,sources/the_lady_in_the_lake.epub
+33,Patton,GPE,sources/the_lady_in_the_lake.epub
+34,L.A.,GPE,sources/the_lady_in_the_lake.epub
+35,Hollywood,GPE,sources/the_lady_in_the_lake.epub
+36,L.A.,GPE,sources/the_lady_in_the_lake.epub
+37,Los Angeles,GPE,sources/the_lady_in_the_lake.epub
+38,Beverly Hills,GPE,sources/the_lady_in_the_lake.epub
+39,San Bernardino,GPE,sources/the_lady_in_the_lake.epub
+40,Patton,GPE,sources/the_lady_in_the_lake.epub
+41,L.A.,GPE,sources/the_lady_in_the_lake.epub
+42,El Paso,GPE,sources/the_lady_in_the_lake.epub
+43,San Bernardino,GPE,sources/the_lady_in_the_lake.epub
+44,L.A.,GPE,sources/the_lady_in_the_lake.epub
+45,San Bernardino,GPE,sources/the_lady_in_the_lake.epub
+46,Muriel,GPE,sources/the_lady_in_the_lake.epub
+47,Patton,GPE,sources/the_lady_in_the_lake.epub
+48,San Bernardino,GPE,sources/the_lady_in_the_lake.epub
+49,Houston,GPE,sources/the_lady_in_the_lake.epub
+50,Texas,GPE,sources/the_lady_in_the_lake.epub
+51,El Paso,GPE,sources/the_lady_in_the_lake.epub
+52,El Paso,GPE,sources/the_lady_in_the_lake.epub
+53,Beverly Hills,GPE,sources/the_lady_in_the_lake.epub
+54,Texas,GPE,sources/the_lady_in_the_lake.epub
+55,Les,GPE,sources/the_lady_in_the_lake.epub
+56,Panama,GPE,sources/the_lady_in_the_lake.epub
+57,Hollywood,GPE,sources/the_lady_in_the_lake.epub
+58,Patton,GPE,sources/the_lady_in_the_lake.epub
+59,New York,GPE,sources/the_lady_in_the_lake.epub
+60,El Paso,GPE,sources/the_lady_in_the_lake.epub
+61,Coon Lake,GPE,sources/the_lady_in_the_lake.epub
+62,Bay City,GPE,sources/the_lady_in_the_lake.epub
+63,East Lynne,GPE,sources/the_lady_in_the_lake.epub
+64,Panama,GPE,sources/the_lady_in_the_lake.epub
+65,A.F.,GPE,sources/the_lady_in_the_lake.epub
+66,San Francisco,GPE,sources/the_lady_in_the_lake.epub
+67,Lavery,GPE,sources/the_lady_in_the_lake.epub
+68,Bernardino,GPE,sources/the_lady_in_the_lake.epub
+69,Almore,GPE,sources/the_lady_in_the_lake.epub
+70,Bay City,GPE,sources/the_lady_in_the_lake.epub
+71,Lavery,GPE,sources/the_lady_in_the_lake.epub
+72,Los Angeles,GPE,sources/the_lady_in_the_lake.epub
+73,Bay City,GPE,sources/the_lady_in_the_lake.epub
+74,L.A.,GPE,sources/the_lady_in_the_lake.epub
+75,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+76,Los Angeles,GPE,sources/the_lady_in_the_lake.epub
+77,Almore,GPE,sources/the_lady_in_the_lake.epub
+78,Bay City,GPE,sources/the_lady_in_the_lake.epub
+79,Los Angeles,GPE,sources/the_lady_in_the_lake.epub
+80,Beverly Hills,GPE,sources/the_lady_in_the_lake.epub
+81,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+82,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+83,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+84,Panama,GPE,sources/the_lady_in_the_lake.epub
+85,Almore,GPE,sources/the_lady_in_the_lake.epub
+86,Hollywood,GPE,sources/the_lady_in_the_lake.epub
+87,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+88,Almore,GPE,sources/the_lady_in_the_lake.epub
+89,Grayson’s,GPE,sources/the_lady_in_the_lake.epub
+90,Bay City,GPE,sources/the_lady_in_the_lake.epub
+91,Bay City,GPE,sources/the_lady_in_the_lake.epub
+92,Los Angeles,GPE,sources/the_lady_in_the_lake.epub
+93,Roof,GPE,sources/the_lady_in_the_lake.epub
+94,Bay City,GPE,sources/the_lady_in_the_lake.epub
+95,Bay City,GPE,sources/the_lady_in_the_lake.epub
+96,Almore,GPE,sources/the_lady_in_the_lake.epub
+97,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+98,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+99,Almore,GPE,sources/the_lady_in_the_lake.epub
+100,Lavery,GPE,sources/the_lady_in_the_lake.epub
+101,Almore,GPE,sources/the_lady_in_the_lake.epub
+102,Almore,GPE,sources/the_lady_in_the_lake.epub
+103,Almore,GPE,sources/the_lady_in_the_lake.epub
+104,Almore,GPE,sources/the_lady_in_the_lake.epub
+105,’s,GPE,sources/the_lady_in_the_lake.epub
+106,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+107,Hollywood,GPE,sources/the_lady_in_the_lake.epub
+108,Almore,GPE,sources/the_lady_in_the_lake.epub
+109,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+110,Los Angeles,GPE,sources/the_lady_in_the_lake.epub
+111,Los Angeles,GPE,sources/the_lady_in_the_lake.epub
+112,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+113,Almore,GPE,sources/the_lady_in_the_lake.epub
+114,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+115,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+116,Hollywood,GPE,sources/the_lady_in_the_lake.epub
+117,Shetland,GPE,sources/the_lady_in_the_lake.epub
+118,Bay City,GPE,sources/the_lady_in_the_lake.epub
+119,Bay City,GPE,sources/the_lady_in_the_lake.epub
+120,Granada,GPE,sources/the_lady_in_the_lake.epub
+121,Kinda,GPE,sources/the_lady_in_the_lake.epub
+122,Boston,GPE,sources/the_lady_in_the_lake.epub
+123,San Bernardino,GPE,sources/the_lady_in_the_lake.epub
+124,El Paso,GPE,sources/the_lady_in_the_lake.epub
+125,El Paso,GPE,sources/the_lady_in_the_lake.epub
+126,Santa Barbara,GPE,sources/the_lady_in_the_lake.epub
+127,Pasadena,GPE,sources/the_lady_in_the_lake.epub
+128,Hollywood,GPE,sources/the_lady_in_the_lake.epub
+129,Mexico,GPE,sources/the_lady_in_the_lake.epub
+130,Riverside,GPE,sources/the_lady_in_the_lake.epub
+131,Reno,GPE,sources/the_lady_in_the_lake.epub
+132,Scotch,GPE,sources/the_lady_in_the_lake.epub
+133,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+134,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+135,Westwood Village,GPE,sources/the_lady_in_the_lake.epub
+136,Bay City,GPE,sources/the_lady_in_the_lake.epub
+137,Beverly Hills,GPE,sources/the_lady_in_the_lake.epub
+138,Lavery,GPE,sources/the_lady_in_the_lake.epub
+139,Bay City,GPE,sources/the_lady_in_the_lake.epub
+140,Bay City,GPE,sources/the_lady_in_the_lake.epub
+141,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+142,Los Angeles,GPE,sources/the_lady_in_the_lake.epub
+143,Los Angeles,GPE,sources/the_lady_in_the_lake.epub
+144,Bay City,GPE,sources/the_lady_in_the_lake.epub
+145,Patton,GPE,sources/the_lady_in_the_lake.epub
+146,San Dimas,GPE,sources/the_lady_in_the_lake.epub
+147,Almore,GPE,sources/the_lady_in_the_lake.epub
+148,Almore,GPE,sources/the_lady_in_the_lake.epub
+149,Almore,GPE,sources/the_lady_in_the_lake.epub
+150,San Bernardino,GPE,sources/the_lady_in_the_lake.epub
+151,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+152,Bay City,GPE,sources/the_lady_in_the_lake.epub
+153,Patton,GPE,sources/the_lady_in_the_lake.epub
+154,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+155,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+156,Bay City,GPE,sources/the_lady_in_the_lake.epub
+157,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+158,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+159,Patton,GPE,sources/the_lady_in_the_lake.epub
+160,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+161,Bay City,GPE,sources/the_lady_in_the_lake.epub
+162,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+163,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+164,Bay City,GPE,sources/the_lady_in_the_lake.epub
+165,Bay City,GPE,sources/the_lady_in_the_lake.epub
+166,Kingsley,GPE,sources/the_lady_in_the_lake.epub
+167,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+168,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+169,San Bernardino,GPE,sources/the_lady_in_the_lake.epub
+170,El Paso,GPE,sources/the_lady_in_the_lake.epub
+171,San Bernardino,GPE,sources/the_lady_in_the_lake.epub
+172,Bay City,GPE,sources/the_lady_in_the_lake.epub
+173,Almore,GPE,sources/the_lady_in_the_lake.epub
+174,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+175,San Bernardino,GPE,sources/the_lady_in_the_lake.epub
+176,El Paso,GPE,sources/the_lady_in_the_lake.epub
+177,Bay City,GPE,sources/the_lady_in_the_lake.epub
+178,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+179,Granada,GPE,sources/the_lady_in_the_lake.epub
+180,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+181,Almore,GPE,sources/the_lady_in_the_lake.epub
+182,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+183,Colt,GPE,sources/the_lady_in_the_lake.epub
+184,Degarmo,GPE,sources/the_lady_in_the_lake.epub
+185,Patton,GPE,sources/the_lady_in_the_lake.epub
+186,Patton,GPE,sources/the_lady_in_the_lake.epub
+187,Patton,GPE,sources/the_lady_in_the_lake.epub
+0,Pasadena,GPE,sources/the_high_window.epub
+1,Pasadena,GPE,sources/the_high_window.epub
+2,Pasadena,GPE,sources/the_high_window.epub
+3,Sacramento,GPE,sources/the_high_window.epub
+4,the State Building,GPE,sources/the_high_window.epub
+5,Pasadena,GPE,sources/the_high_window.epub
+6,Los Angeles,GPE,sources/the_high_window.epub
+7,Los Angeles,GPE,sources/the_high_window.epub
+8,California,GPE,sources/the_high_window.epub
+9,Santa Claus,GPE,sources/the_high_window.epub
+10,Hollywood,GPE,sources/the_high_window.epub
+11,Pasadena,GPE,sources/the_high_window.epub
+12,Idle Valley,GPE,sources/the_high_window.epub
+13,Gertie Arbogast,GPE,sources/the_high_window.epub
+14,Sunset,GPE,sources/the_high_window.epub
+15,Pasadena,GPE,sources/the_high_window.epub
+16,Heathcliff,GPE,sources/the_high_window.epub
+17,Heathcliff,GPE,sources/the_high_window.epub
+18,Heathcliff,GPE,sources/the_high_window.epub
+19,Heathcliff,GPE,sources/the_high_window.epub
+20,Scotch,GPE,sources/the_high_window.epub
+21,Heathcliff,GPE,sources/the_high_window.epub
+22,Grand,GPE,sources/the_high_window.epub
+23,Pasadena,GPE,sources/the_high_window.epub
+24,North Wilcox Avenue,GPE,sources/the_high_window.epub
+25,Hollywood,GPE,sources/the_high_window.epub
+26,Ventura,GPE,sources/the_high_window.epub
+27,Oklahoma City,GPE,sources/the_high_window.epub
+28,the United States,GPE,sources/the_high_window.epub
+29,Bunker Hill,GPE,sources/the_high_window.epub
+30,New York,GPE,sources/the_high_window.epub
+31,Philadelphia,GPE,sources/the_high_window.epub
+32,Massachusetts,GPE,sources/the_high_window.epub
+33,Bunker Hill,GPE,sources/the_high_window.epub
+34,’s,GPE,sources/the_high_window.epub
+35,Ventura,GPE,sources/the_high_window.epub
+36,Hollywood,GPE,sources/the_high_window.epub
+37,Los Angeles,GPE,sources/the_high_window.epub
+38,Sunset,GPE,sources/the_high_window.epub
+39,Pasadena,GPE,sources/the_high_window.epub
+40,Hollywood,GPE,sources/the_high_window.epub
+41,Santa Monica,GPE,sources/the_high_window.epub
+42,Wilcox,GPE,sources/the_high_window.epub
+43,North,GPE,sources/the_high_window.epub
+44,Hollywood,GPE,sources/the_high_window.epub
+45,Noo York,GPE,sources/the_high_window.epub
+46,Noo York,GPE,sources/the_high_window.epub
+47,New York,GPE,sources/the_high_window.epub
+48,Leipzig,GPE,sources/the_high_window.epub
+49,Ventura,GPE,sources/the_high_window.epub
+50,’s,GPE,sources/the_high_window.epub
+51,Ventura,GPE,sources/the_high_window.epub
+52,L.A.,GPE,sources/the_high_window.epub
+53,Idle Valley,GPE,sources/the_high_window.epub
+54,Boyle Heights,GPE,sources/the_high_window.epub
+55,Pasadena,GPE,sources/the_high_window.epub
+56,Bunker Hill,GPE,sources/the_high_window.epub
+57,Hollywood,GPE,sources/the_high_window.epub
+58,Pasadena,GPE,sources/the_high_window.epub
+59,Bunker Hill,GPE,sources/the_high_window.epub
+60,New York,GPE,sources/the_high_window.epub
+61,Palermo,GPE,sources/the_high_window.epub
+62,Palermo,GPE,sources/the_high_window.epub
+63,Hollywood,GPE,sources/the_high_window.epub
+64,Santa Rosa,GPE,sources/the_high_window.epub
+65,Sausalito,GPE,sources/the_high_window.epub
+66,El Paso,GPE,sources/the_high_window.epub
+67,England,GPE,sources/the_high_window.epub
+68,Colt,GPE,sources/the_high_window.epub
+69,Sherman Oaks,GPE,sources/the_high_window.epub
+70,Hollywood,GPE,sources/the_high_window.epub
+71,Pasadena,GPE,sources/the_high_window.epub
+72,Wichita,GPE,sources/the_high_window.epub
+73,Sherman Oaks,GPE,sources/the_high_window.epub
+74,Pasadena,GPE,sources/the_high_window.epub
+75,Sherman Oaks,GPE,sources/the_high_window.epub
+76,Pasadena,GPE,sources/the_high_window.epub
+77,Wichita,GPE,sources/the_high_window.epub
+78,Sudden,GPE,sources/the_high_window.epub
+79,Vannier,GPE,sources/the_high_window.epub
+80,Bunker Hill,GPE,sources/the_high_window.epub
+81,Hollywood,GPE,sources/the_high_window.epub
+82,Wichita,GPE,sources/the_high_window.epub
+83,Wichita,GPE,sources/the_high_window.epub
+84,Hollywood,GPE,sources/the_high_window.epub
+85,Ventura,GPE,sources/the_high_window.epub
+86,Bunker Hill,GPE,sources/the_high_window.epub
+87,Hollywood,GPE,sources/the_high_window.epub
+88,M.D.,GPE,sources/the_high_window.epub
+89,the United States,GPE,sources/the_high_window.epub
+90,Wichita,GPE,sources/the_high_window.epub
+91,Salt Lake City,GPE,sources/the_high_window.epub
+92,New York State,GPE,sources/the_high_window.epub
+93,Utah,GPE,sources/the_high_window.epub
+0,Pittsburgh,GPE,sources/killer_in_the_rain.epub
+1,Pittsburgh,GPE,sources/killer_in_the_rain.epub
+2,Smoky,GPE,sources/killer_in_the_rain.epub
+3,Scotch,GPE,sources/killer_in_the_rain.epub
+4,Berglund,GPE,sources/killer_in_the_rain.epub
+5,Lido,GPE,sources/killer_in_the_rain.epub
+6,Cad,GPE,sources/killer_in_the_rain.epub
+7,the County Building,GPE,sources/killer_in_the_rain.epub
+8,Lido,GPE,sources/killer_in_the_rain.epub
+9,Lido,GPE,sources/killer_in_the_rain.epub
+10,Sudden,GPE,sources/killer_in_the_rain.epub
+11,Slade,GPE,sources/killer_in_the_rain.epub
+12,Lido,GPE,sources/killer_in_the_rain.epub
+13,Berglund,GPE,sources/killer_in_the_rain.epub
+0,California,GPE,sources/the_little_sister.epub
+1,Hollywood,GPE,sources/the_little_sister.epub
+2,Beverly Hills,GPE,sources/the_little_sister.epub
+3,Santa Rosa,GPE,sources/the_little_sister.epub
+4,Manhattan,GPE,sources/the_little_sister.epub
+5,Manhattan,GPE,sources/the_little_sister.epub
+6,Kansas,GPE,sources/the_little_sister.epub
+7,Manhattan,GPE,sources/the_little_sister.epub
+8,New York,GPE,sources/the_little_sister.epub
+9,Manhattan,GPE,sources/the_little_sister.epub
+10,Kansas,GPE,sources/the_little_sister.epub
+11,Bay City,GPE,sources/the_little_sister.epub
+12,Wichita,GPE,sources/the_little_sister.epub
+13,California,GPE,sources/the_little_sister.epub
+14,California,GPE,sources/the_little_sister.epub
+15,Bay City,GPE,sources/the_little_sister.epub
+16,Kansas,GPE,sources/the_little_sister.epub
+17,Salt Lake City,GPE,sources/the_little_sister.epub
+18,Bay City,GPE,sources/the_little_sister.epub
+19,Bay City,GPE,sources/the_little_sister.epub
+20,Bay City,GPE,sources/the_little_sister.epub
+21,Manhattan,GPE,sources/the_little_sister.epub
+22,Manhattan,GPE,sources/the_little_sister.epub
+23,Bay City,GPE,sources/the_little_sister.epub
+24,Manhattan,GPE,sources/the_little_sister.epub
+25,Kansas,GPE,sources/the_little_sister.epub
+26,Manhattan,GPE,sources/the_little_sister.epub
+27,Kansas,GPE,sources/the_little_sister.epub
+28,Manhattan,GPE,sources/the_little_sister.epub
+29,Manhattan,GPE,sources/the_little_sister.epub
+30,Kansas,GPE,sources/the_little_sister.epub
+31,Bay City,GPE,sources/the_little_sister.epub
+32,Bay City,GPE,sources/the_little_sister.epub
+33,Bay City,GPE,sources/the_little_sister.epub
+34,Hollywood,GPE,sources/the_little_sister.epub
+35,Bay City,GPE,sources/the_little_sister.epub
+36,Wyoming Street,GPE,sources/the_little_sister.epub
+37,Bay City,GPE,sources/the_little_sister.epub
+38,California,GPE,sources/the_little_sister.epub
+39,California,GPE,sources/the_little_sister.epub
+40,Manhattan,GPE,sources/the_little_sister.epub
+41,Kansas,GPE,sources/the_little_sister.epub
+42,Manhattan,GPE,sources/the_little_sister.epub
+43,Kansas,GPE,sources/the_little_sister.epub
+44,Bay City,GPE,sources/the_little_sister.epub
+45,Boston,GPE,sources/the_little_sister.epub
+46,El Centro,GPE,sources/the_little_sister.epub
+47,Bay City,GPE,sources/the_little_sister.epub
+48,Whistles,GPE,sources/the_little_sister.epub
+49,DOA,GPE,sources/the_little_sister.epub
+50,Brooklyn,GPE,sources/the_little_sister.epub
+51,El Centro,GPE,sources/the_little_sister.epub
+52,El Centro,GPE,sources/the_little_sister.epub
+53,California,GPE,sources/the_little_sister.epub
+54,Flackie,GPE,sources/the_little_sister.epub
+55,Hollywood,GPE,sources/the_little_sister.epub
+56,Hollywood,GPE,sources/the_little_sister.epub
+57,Taj Mahal,GPE,sources/the_little_sister.epub
+58,Hollywood,GPE,sources/the_little_sister.epub
+59,Mavis Weld’s,GPE,sources/the_little_sister.epub
+60,Sunset,GPE,sources/the_little_sister.epub
+61,Highland,GPE,sources/the_little_sister.epub
+62,Studio City,GPE,sources/the_little_sister.epub
+63,Sherman Oaks,GPE,sources/the_little_sister.epub
+64,Wilmington,GPE,sources/the_little_sister.epub
+65,Thousand Oaks,GPE,sources/the_little_sister.epub
+66,New York,GPE,sources/the_little_sister.epub
+67,New York,GPE,sources/the_little_sister.epub
+68,Detroit,GPE,sources/the_little_sister.epub
+69,California,GPE,sources/the_little_sister.epub
+70,California,GPE,sources/the_little_sister.epub
+71,Manhattan,GPE,sources/the_little_sister.epub
+72,Kansas,GPE,sources/the_little_sister.epub
+73,Bay City,GPE,sources/the_little_sister.epub
+74,Manhattan,GPE,sources/the_little_sister.epub
+75,Kansas,GPE,sources/the_little_sister.epub
+76,Malibu,GPE,sources/the_little_sister.epub
+77,Los Angeles,GPE,sources/the_little_sister.epub
+78,Tijuana,GPE,sources/the_little_sister.epub
+79,Los Angeles,GPE,sources/the_little_sister.epub
+80,Van Nuys,GPE,sources/the_little_sister.epub
+81,Hollywood,GPE,sources/the_little_sister.epub
+82,Bay City,GPE,sources/the_little_sister.epub
+83,Wyoming Street,GPE,sources/the_little_sister.epub
+84,Los Angeles,GPE,sources/the_little_sister.epub
+85,Bay City,GPE,sources/the_little_sister.epub
+86,the City Room,GPE,sources/the_little_sister.epub
+87,Hollywood,GPE,sources/the_little_sister.epub
+88,Cleveland,GPE,sources/the_little_sister.epub
+89,Cleveland,GPE,sources/the_little_sister.epub
+90,Hollywood,GPE,sources/the_little_sister.epub
+91,Goldwyn,GPE,sources/the_little_sister.epub
+92,Hollywood,GPE,sources/the_little_sister.epub
+93,Spink,GPE,sources/the_little_sister.epub
+94,Spink,GPE,sources/the_little_sister.epub
+95,Spink,GPE,sources/the_little_sister.epub
+96,Spink,GPE,sources/the_little_sister.epub
+97,Hollywood,GPE,sources/the_little_sister.epub
+98,Cleveland,GPE,sources/the_little_sister.epub
+99,Ballou,GPE,sources/the_little_sister.epub
+100,Hollywood,GPE,sources/the_little_sister.epub
+101,Jock,GPE,sources/the_little_sister.epub
+102,Hollywood,GPE,sources/the_little_sister.epub
+103,Ballou,GPE,sources/the_little_sister.epub
+104,Bay City,GPE,sources/the_little_sister.epub
+105,Manhattan,GPE,sources/the_little_sister.epub
+106,Kansas,GPE,sources/the_little_sister.epub
+107,Bay City,GPE,sources/the_little_sister.epub
+108,Bay City,GPE,sources/the_little_sister.epub
+109,Subliminal,GPE,sources/the_little_sister.epub
+110,Toots,GPE,sources/the_little_sister.epub
+111,Bay City,GPE,sources/the_little_sister.epub
+112,Mexico,GPE,sources/the_little_sister.epub
+113,P.I.,GPE,sources/the_little_sister.epub
+114,Bay City,GPE,sources/the_little_sister.epub
+115,Cleveland,GPE,sources/the_little_sister.epub
+116,L.A.,GPE,sources/the_little_sister.epub
+117,Cleveland,GPE,sources/the_little_sister.epub
+118,L.A.,GPE,sources/the_little_sister.epub
+119,Professionaly,GPE,sources/the_little_sister.epub
+120,L.A.,GPE,sources/the_little_sister.epub
+121,Manhattan,GPE,sources/the_little_sister.epub
+122,Kansas,GPE,sources/the_little_sister.epub
+123,Bay City,GPE,sources/the_little_sister.epub
+124,Hollywood,GPE,sources/the_little_sister.epub
+125,Texas,GPE,sources/the_little_sister.epub
+126,Cleveland,GPE,sources/the_little_sister.epub
+127,Bay City,GPE,sources/the_little_sister.epub
+128,Bay City,GPE,sources/the_little_sister.epub
+129,Bay City,GPE,sources/the_little_sister.epub
+130,Bay City,GPE,sources/the_little_sister.epub
+131,Bay City,GPE,sources/the_little_sister.epub
+132,Bay City,GPE,sources/the_little_sister.epub
+133,Maglashan,GPE,sources/the_little_sister.epub
+134,Maglashan,GPE,sources/the_little_sister.epub
+135,Maglashan,GPE,sources/the_little_sister.epub
+136,Maglashan,GPE,sources/the_little_sister.epub
+137,Maglashan,GPE,sources/the_little_sister.epub
+138,Cleveland,GPE,sources/the_little_sister.epub
+139,Bay City,GPE,sources/the_little_sister.epub
+140,Cleveland,GPE,sources/the_little_sister.epub
+141,Bay City,GPE,sources/the_little_sister.epub
+142,Cleveland,GPE,sources/the_little_sister.epub
+143,Cleveland,GPE,sources/the_little_sister.epub
+144,Cleveland,GPE,sources/the_little_sister.epub
+145,Kansas,GPE,sources/the_little_sister.epub
+146,Maglashan,GPE,sources/the_little_sister.epub
+147,the Beverly Hills,GPE,sources/the_little_sister.epub
+148,Sunset,GPE,sources/the_little_sister.epub
+149,Sunset,GPE,sources/the_little_sister.epub
+150,Fairfax,GPE,sources/the_little_sister.epub
+151,Beverly Hills,GPE,sources/the_little_sister.epub
+152,Hollywood,GPE,sources/the_little_sister.epub
+153,Los Angeles,GPE,sources/the_little_sister.epub
+154,New York,GPE,sources/the_little_sister.epub
+155,Chicago,GPE,sources/the_little_sister.epub
+156,Detroit,GPE,sources/the_little_sister.epub
+157,Cleveland,GPE,sources/the_little_sister.epub
+158,Los Angeles,GPE,sources/the_little_sister.epub
+159,Hollywood,GPE,sources/the_little_sister.epub
+160,Hollywood,GPE,sources/the_little_sister.epub
+161,Hollywood,GPE,sources/the_little_sister.epub
+162,Cleveland,GPE,sources/the_little_sister.epub
+163,Wooden,GPE,sources/the_little_sister.epub
+164,Beverly Hills,GPE,sources/the_little_sister.epub
+165,Van Nuys,GPE,sources/the_little_sister.epub
+166,Hollywood,GPE,sources/the_little_sister.epub
+167,Van Nuys,GPE,sources/the_little_sister.epub
+168,Stillwood Heights,GPE,sources/the_little_sister.epub
+169,Stillwood Heights,GPE,sources/the_little_sister.epub
+170,Hollywood,GPE,sources/the_little_sister.epub
+171,Wyoming Street,GPE,sources/the_little_sister.epub
+172,D.A.,GPE,sources/the_little_sister.epub
+173,Bay City,GPE,sources/the_little_sister.epub
+174,Las Vegas,GPE,sources/the_little_sister.epub
+175,Cleveland,GPE,sources/the_little_sister.epub
+176,Bay City,GPE,sources/the_little_sister.epub
+177,Stein,GPE,sources/the_little_sister.epub
+178,Manhattan,GPE,sources/the_little_sister.epub
+179,Leila,GPE,sources/the_little_sister.epub
+180,Manhattan,GPE,sources/the_little_sister.epub
+181,Kansas,GPE,sources/the_little_sister.epub
+182,Leila,GPE,sources/the_little_sister.epub
+183,Hollywood,GPE,sources/the_little_sister.epub
+184,Manhattan,GPE,sources/the_little_sister.epub
+185,Kansas,GPE,sources/the_little_sister.epub
+186,Manhattan,GPE,sources/the_little_sister.epub
+187,india,GPE,sources/the_little_sister.epub
+188,Cleveland,GPE,sources/the_little_sister.epub
+189,Cleveland,GPE,sources/the_little_sister.epub
+190,Cleveland,GPE,sources/the_little_sister.epub
+191,Cleveland,GPE,sources/the_little_sister.epub
+192,Bay City,GPE,sources/the_little_sister.epub
+193,Scotch,GPE,sources/the_little_sister.epub
+194,Cleveland,GPE,sources/the_little_sister.epub
+195,Stein,GPE,sources/the_little_sister.epub
+196,Hollywood,GPE,sources/the_little_sister.epub
